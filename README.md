@@ -1,7 +1,11 @@
 # Luna Lee's Data Analytics Portfolio
 
 Welcome to my portfolio! I am a data analyst with a passion for transforming raw data into actionable insights. This repository showcases my personal projects, skills, and certifications in the fields of data analytics, machine learning, and visualization.
-![Luna Lee](https://github.com/lunalee1802/portfolio/blob/main/Luna%20Lee.jfif)
+
+
+<div align="center">
+   <img src="https://github.com/lunalee1802/portfolio/blob/main/Luna%20Lee.jfif" alt="Luna Lee" width="150"/>
+</div>
 ---
 
 ## 📜 Skills & Certifications
