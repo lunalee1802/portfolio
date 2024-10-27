@@ -5,5 +5,5 @@
 ### Work Experience
 
 ### Projects
-#### [Walrmart Project] (https://github.com/lunalee1802/Walmart-project)
+#### [Sleep_Quatligy] (https://github.com/lunalee1802/sleep_quality)
 #### [Netflix Project] (https://github.com/lunalee1802/Netflix_project-)
