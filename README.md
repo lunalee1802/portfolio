@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a data analyst with a passion for transforming raw
 
 
 <div align="center">
-   <img src="https://github.com/lunalee1802/portfolio/blob/main/Luna%20Lee.jfif" alt="Luna Lee" width="150"/>
+   <img src="https://github.com/lunalee1802/portfolio/blob/main/Luna%20Lee.jfif" alt="Luna Lee" width="300"/>
 </div>
 ---
 
